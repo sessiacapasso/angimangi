@@ -5,6 +5,12 @@
     font-size: 120px;
     color: rgb(235, 171, 12);
 }
+.Frame1{
+    width: 820px;
+    height: 550px;
+    margin-left: 335px;
+    margin-top: 368px;
+}
 .scritta2{
     width: 1440px;
     height: 1669px;
@@ -12,6 +18,12 @@
     font-size: 120px;
     color:rgb(235, 171, 12)
 
+}
+.Frame2{
+    width: 1097px;
+    height: 492px;
+    margin-left: 157px;
+    margin-top: 321px;
 }
 .scritta3{
     width: 756px;
@@ -21,4 +33,12 @@
     font-family: Yujy Syuku;
     font-size: 40px;
     color: black;
+}
+.scritta4{
+    width: 1402px;
+    height: 396px;
+    margin-top: 959px;
+    margin-left: 17px;
+    font-family: Inter;
+    font-size: 30px;
 }
