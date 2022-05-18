@@ -1,9 +1,10 @@
 .scritta1{
-    width: 997px;
-    height: 322px;
     font-family: Yuji Syuku;
     font-size: 120px;
-    color: rgb(235, 171, 12);
+    font-weight: 400;
+    line-height: 174px;
+    letter-spacing: -0.02em;
+    text-align: left;    
 }
 .Frame1{
     width: 820px;
